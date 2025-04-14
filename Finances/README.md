@@ -23,7 +23,7 @@ Credit risk modeling is important for financial institutions. It represents the 
 ## Pipeline  
 
 
-<img src= "Finances/Figures/pipeline_summary.jpg">
+<img src= "./Figures/pipeline_summary.jpg">
 
 
 ## Project
