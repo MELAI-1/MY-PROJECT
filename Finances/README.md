@@ -134,7 +134,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Author  
 
-* [levist7](https://github.com/levist7)
+* [Melvin-AI]([https://github.com/levist7](https://github.com/MELAI-1/MY-PROJECT/blob/main/Finances))
 ---
-Made with ❤️ in Paris
+Made by Melvin FOKAM 
 ---
