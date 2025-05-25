@@ -94,24 +94,23 @@ Project is built using:
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
+   ```sh
    git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
    cd YOUR-REPO-NAME
-````
-
+  ```
 2. Install dependencies:
 
-   ```bash
+   ```sh
    pip install -r requirements.txt
    ```
-
+---
 3. Explore the domain-specific folders and run the notebooks.
 
 
 
 ## Top-directory layout
 
-
+   ```
 .
 ├── climate-change/         # Projects related to climate and environment
 ├── computer-vision/        # Image/video analysis projects
@@ -119,10 +118,11 @@ Project is built using:
 ├── machine-learning/       # General ML projects (regression/classification/clustering)
 ├── nlp/                    # Natural Language Processing
 ├── requirements.txt        # Python dependencies
-├── README.md               # This file
+├── README.md               
 └── LICENSE
-
-
+ 
+   ```
+  
 
 
 ## License
@@ -131,8 +131,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 
 ## Author
-
+---
 Made with ❤️ by **Melvin FOKAM**
+
 🔗 [GitHub Profile](https://github.com/MELAI-1)
 🔗 [LinkedIn](https://www.linkedin.com/in/astridemelvinfokamninyim11/)
 
