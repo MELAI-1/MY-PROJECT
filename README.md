@@ -112,7 +112,7 @@ Project is built using:
 
    ```
 .
-├── climate-change/         # Projects related to climate and environment
+├── climate/         # Projects related to climate and environment
 ├── computer-vision/        # Image/video analysis projects
 ├── finance/                # Financial analytics and modeling
 ├── machine-learning/       # General ML projects (regression/classification/clustering)
