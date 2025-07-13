@@ -33,6 +33,7 @@ This repository gathers a wide range of AI projects developed to address real-wo
 - Supervised/unsupervised pipelines
 - Model evaluation & interpretability
 - Feature engineering, hyperparameter tuning
+- Feature selection
 
 ### 👁️ Computer Vision
 - Object detection (YOLOv5, SSD)
